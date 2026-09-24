@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[Parfumeria.by](https://github.com/lexandro-design/portfolio/tree/main/cases/parfumeria) · [OTRX](https://github.com/lexandro-design/portfolio/tree/main/cases/otrx) · [Переговорные](https://github.com/lexandro-design/portfolio/tree/main/cases/meeting-rooms) · [AI Translator](https://github.com/lexandro-design/portfolio/tree/main/cases/ai-translator) · [PIX BI](https://github.com/lexandro-design/portfolio/tree/main/cases/pix-bi) · [Сайт MEG](https://github.com/lexandro-design/portfolio/tree/main/cases/meg-site) · [План отпусков](https://github.com/lexandro-design/portfolio/tree/main/cases/vacation-plan) · [MiMiMi AI](https://github.com/lexandro-design/portfolio/tree/main/cases/mimimibot) · [brain-search](https://github.com/lexandro-design/portfolio/tree/main/cases/brain-search) · [Jarvis](https://github.com/lexandro-design/portfolio/tree/main/cases/jarvis)
+[Parfumeria.by](https://lexandro-design.github.io/portfolio/cases/parfumeria/) · [OTRX](https://lexandro-design.github.io/portfolio/cases/otrx/) · [Переговорные](https://lexandro-design.github.io/portfolio/cases/meeting-rooms/) · [AI Translator](https://lexandro-design.github.io/portfolio/cases/ai-translator/) · [PIX BI](https://lexandro-design.github.io/portfolio/cases/pix-bi/) · [Сайт MEG](https://lexandro-design.github.io/portfolio/cases/meg-site/) · [План отпусков](https://lexandro-design.github.io/portfolio/cases/vacation-plan/) · [FoodMarket](https://lexandro-design.github.io/portfolio/cases/foodmarket/) · [MiMiMi AI](https://lexandro-design.github.io/portfolio/cases/mimimibot/) · [brain-search](https://lexandro-design.github.io/portfolio/cases/brain-search/) · [Jarvis](https://lexandro-design.github.io/portfolio/cases/jarvis/)
 
 <br>
 
