@@ -22,6 +22,8 @@
 <img src="https://img.shields.io/badge/Supabase-1f2328?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
 <img src="https://img.shields.io/badge/PostgreSQL-1f2328?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/Telegram_Bot_API-1f2328?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bot API">
+<img src="https://img.shields.io/badge/OpenAI_API-1f2328?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API">
+<img src="https://img.shields.io/badge/YooKassa-1f2328?style=flat-square" alt="YooKassa">
 <img src="https://img.shields.io/badge/Ollama-1f2328?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
 <img src="https://img.shields.io/badge/MCP-1f2328?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP">
 <img src="https://img.shields.io/badge/RAG-1f2328?style=flat-square" alt="RAG">
@@ -44,18 +46,18 @@
       <br><sub>Figma · Next.js · TypeScript · CSS Modules</sub>
     </td>
     <td width="50%">
-      <a href="https://github.com/lexandro-design/portfolio/tree/main/cases/mimimibot"><img src="https://raw.githubusercontent.com/lexandro-design/portfolio/main/cases/mimimibot/images/cover.svg" alt="mimimibot" width="100%"></a>
-      <br><b><a href="https://github.com/lexandro-design/portfolio/tree/main/cases/mimimibot">mimimibot</a></b>
-      <br>Telegram-бот с AI-генерацией фото
-      <br><sub>Telegram Bot API · AI</sub>
+      <a href="https://github.com/lexandro-design/portfolio/tree/main/cases/mimimibot"><img src="https://raw.githubusercontent.com/lexandro-design/portfolio/main/cases/mimimibot/images/cover.svg" alt="MiMiMi AI" width="100%"></a>
+      <br><b><a href="https://github.com/lexandro-design/portfolio/tree/main/cases/mimimibot">MiMiMi AI</a></b>
+      <br>Telegram-бот для AI-фотосессий с цифровым двойником пользователя
+      <br><sub>n8n · Supabase · YooKassa · Telegram Bot API</sub>
     </td>
   </tr>
   <tr valign="top">
     <td width="50%">
       <a href="https://github.com/lexandro-design/portfolio/tree/main/cases/jarvis"><img src="https://raw.githubusercontent.com/lexandro-design/portfolio/main/cases/jarvis/images/cover.svg" alt="Jarvis" width="100%"></a>
       <br><b><a href="https://github.com/lexandro-design/portfolio/tree/main/cases/jarvis">Jarvis</a></b>
-      <br>Личный AI-ассистент
-      <br><sub>AI-агент · LLM</sub>
+      <br>Личный self-hosted ассистент в Telegram: текст, голос, напоминания по расписанию
+      <br><sub>n8n · Supabase · OpenAI · Telegram Bot API</sub>
     </td>
     <td width="50%">
       <a href="https://github.com/lexandro-design/portfolio/tree/main/cases/brain-search"><img src="https://raw.githubusercontent.com/lexandro-design/portfolio/main/cases/brain-search/images/cover.svg" alt="brain-search" width="100%"></a>
@@ -70,6 +72,6 @@
 
 ### Контакты
 
-- Telegram: уточняется
-- Email: уточняется
+- Telegram: [@lexandr0](https://t.me/lexandr0)
+- Email: [alexssveshnikov@gmail.com](mailto:alexssveshnikov@gmail.com)
 - Сайт: [lexandro-design.github.io/portfolio](https://lexandro-design.github.io/portfolio/)
