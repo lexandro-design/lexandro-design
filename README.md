@@ -1,18 +1,20 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lexandro-design/lexandro-design/main/assets/card-dark.svg">
-  <img alt="Алексей Свешников, LEXANDRO. Дизайнер интерфейсов и разработчик, Санкт-Петербург" src="https://raw.githubusercontent.com/lexandro-design/lexandro-design/main/assets/card-light.svg" width="100%">
-</picture>
+<a href="https://lexandro-design.github.io/portfolio/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png"><img alt="Alexey Sveshnikov, LEXANDRO. Design systems that work for you, not against you." src="assets/hero-light.png" width="100%"></picture></a>
 
-<div align="center">
+<p align="center"><a href="https://lexandro-design.github.io/portfolio/"><b>Portfolio</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://t.me/lexandr0">Telegram</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:alexssveshnikov@gmail.com">Email</a></p>
 
-[Parfumeria.by](https://lexandro-design.github.io/portfolio/cases/parfumeria/) · [OTRX](https://lexandro-design.github.io/portfolio/cases/otrx/) · [Переговорные](https://lexandro-design.github.io/portfolio/cases/meeting-rooms/) · [AI Translator](https://lexandro-design.github.io/portfolio/cases/ai-translator/) · [PIX BI](https://lexandro-design.github.io/portfolio/cases/pix-bi/) · [Сайт MEG](https://lexandro-design.github.io/portfolio/cases/meg-site/) · [План отпусков](https://lexandro-design.github.io/portfolio/cases/vacation-plan/) · [FoodMarket](https://lexandro-design.github.io/portfolio/cases/foodmarket/) · [MiMiMi AI](https://lexandro-design.github.io/portfolio/cases/mimimibot/) · [brain-search](https://lexandro-design.github.io/portfolio/cases/brain-search/) · [Jarvis](https://lexandro-design.github.io/portfolio/cases/jarvis/)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-approach-dark.png"><img alt="Approach" src="assets/label-approach-light.png" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/approach-dark.png"><img alt="Tokens first, every state, built to ship" src="assets/approach-light.png" width="100%"></picture>
 
-<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-works-dark.png"><img alt="Selected work" src="assets/label-works-light.png" width="100%"></picture>
+<a href="https://lexandro-design.github.io/portfolio/cases/parfumeria/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/case-parfumeria-dark.png"><img alt="Parfumeria.by, design system and frontend" src="assets/case-parfumeria-light.png" width="100%"></picture></a>
 
-[![Портфолио](https://img.shields.io/badge/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE-15191f?style=for-the-badge&logo=githubpages&logoColor=c2a878)](https://lexandro-design.github.io/portfolio/)
-&nbsp;
-[![Telegram](https://img.shields.io/badge/@lexandr0-15191f?style=for-the-badge&logo=telegram&logoColor=c2a878)](https://t.me/lexandr0)
-&nbsp;
-[![Почта](https://img.shields.io/badge/alexssveshnikov%40gmail.com-15191f?style=for-the-badge&logo=gmail&logoColor=c2a878)](mailto:alexssveshnikov@gmail.com)
+<p><a href="https://lexandro-design.github.io/portfolio/cases/meeting-rooms/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/case-meeting-rooms-dark.png"><img alt="Meeting Rooms, booking service" src="assets/case-meeting-rooms-light.png" width="49%"></picture></a> <a href="https://lexandro-design.github.io/portfolio/cases/pix-bi/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/case-pix-bi-dark.png"><img alt="PIX BI, reporting dashboards" src="assets/case-pix-bi-light.png" width="49%"></picture></a></p>
+<p><a href="https://lexandro-design.github.io/portfolio/cases/otrx/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/case-otrx-dark.png"><img alt="OTRX, cost estimate control" src="assets/case-otrx-light.png" width="49%"></picture></a> <a href="https://lexandro-design.github.io/portfolio/cases/ai-translator/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/case-ai-translator-dark.png"><img alt="AI Translator for legal teams" src="assets/case-ai-translator-light.png" width="49%"></picture></a></p>
+<p><a href="https://lexandro-design.github.io/portfolio/cases/meg-site/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/case-meg-site-dark.png"><img alt="MEG corporate website" src="assets/case-meg-site-light.png" width="49%"></picture></a> <a href="https://lexandro-design.github.io/portfolio/cases/vacation-plan/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/case-vacation-plan-dark.png"><img alt="Vacation Planner, HR tool" src="assets/case-vacation-plan-light.png" width="49%"></picture></a></p>
+<p><a href="https://lexandro-design.github.io/portfolio/cases/foodmarket/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/case-foodmarket-dark.png"><img alt="FoodMarket, two AI assistants" src="assets/case-foodmarket-light.png" width="49%"></picture></a> <a href="https://lexandro-design.github.io/portfolio/cases/mimimibot/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/case-mimimibot-dark.png"><img alt="MiMiMi AI, photoshoots in Telegram" src="assets/case-mimimibot-light.png" width="49%"></picture></a></p>
+<p><a href="https://lexandro-design.github.io/portfolio/cases/brain-search/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/case-brain-search-dark.png"><img alt="brain-search, knowledge base search" src="assets/case-brain-search-light.png" width="49%"></picture></a> <a href="https://lexandro-design.github.io/portfolio/cases/jarvis/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/case-jarvis-dark.png"><img alt="Jarvis, personal assistant" src="assets/case-jarvis-light.png" width="49%"></picture></a></p>
 
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-stack-dark.png"><img alt="Stack" src="assets/label-stack-light.png" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.png"><img alt="Design: UX/UI, design systems, tokens, Figma. Development: Next.js, React, TypeScript. Data: PostgreSQL, Supabase. AI: RAG, MCP." src="assets/stack-light.png" width="100%"></picture>
+
+<a href="mailto:alexssveshnikov@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.png"><img alt="Have a project in mind? alexssveshnikov@gmail.com, Telegram @lexandr0" src="assets/contact-light.png" width="100%"></picture></a>
