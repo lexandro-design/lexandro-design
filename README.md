@@ -1,6 +1,6 @@
 <a href="https://lexandro-design.github.io/portfolio/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png"><img alt="Alexey Sveshnikov, LEXANDRO. Design, code and AI agents, end to end, in one pair of hands." src="assets/hero-light.png" width="100%"></picture></a>
 
-<p align="center"><a href="https://lexandro-design.github.io/portfolio/"><b>Portfolio</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://t.me/lexandr0">Telegram</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:alexssveshnikov@gmail.com">Email</a></p>
+<p align="center"><a href="https://lexandro-design.github.io/portfolio/"><b>Portfolio</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.behance.net/95d03902">Behance</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://t.me/lexandr0">Telegram</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:alexssveshnikov@gmail.com">Email</a></p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-approach-dark.png"><img alt="What I do" src="assets/label-approach-light.png" width="100%"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/approach-dark.png"><img alt="UX/UI and design systems, websites and back end, automation and AI" src="assets/approach-light.png" width="100%"></picture>
